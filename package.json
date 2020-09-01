@@ -2,7 +2,7 @@
   "name": "testadversitynpm",
   "version": "1.0.0",
   "description": "判断一个字符串是否为null, 或空字符串，或undefined",
-  "repository":"https://github.com/IAdversityI/testNpm.git",
+  "repository":"https://github.com/IAdversityI/testadversitynpm.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
